@@ -26,14 +26,14 @@ Note: If you are already running a webserver on port 80 (e.g. Macs usually have 
 
 ## How to contribute?
 
-- [Submit bugs and feature requests](https://github.com/KUCC-1997/kucc-website/issues)
+- [Submit bugs and feature requests](https://github.com/kucc1997/kucc-website/issues)
 - We also welcome code contribution to this project. To do the code contributions please follow these steps.
   - Choose an existing issue labelled as **help wanted**, **good first contribution**, **easy fix** or create your own issue.
   - Fork this repository.
   - Clone the forked repository to your machine.
   - Create a new branch named after the issue you're working on.
   - Commit your changes, push the changes to GitHub.
-  - Open a pull request [here](https://github.com/KUCC-1997/kucc-website/pulls)
+  - Open a pull request [here](https://github.com/kucc1997/kucc-website/pulls)
 
 ## License
 
